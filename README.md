@@ -98,7 +98,7 @@ phoneLetterCombinations/
 4. Access the endpoint:
 
    ```bash
-   curl -X POST http://<server-ip>:8000/combinations/ \
+   curl -X POST http://<server-ip>:8000/combinations \
    -H "Content-Type: application/json" \
    -d '{"phoneNumber": "23"}'
 
