@@ -86,7 +86,7 @@ phoneLetterCombinations/
 
 ## 📦 Deployment on Preinstalled Ubuntu Docker Server
 ### If you want to run it on your own ubuntu device skip to the API Usage section
-1. Log in to the Ubuntu server (if you want to run it on your ubuntu device skip to API Usage section):
+1. Log in to the Ubuntu server:
    ```bash
    ssh username@server-ip
 2. Transfer your docker image:
